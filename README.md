@@ -10,7 +10,7 @@ El tablero completo está publicado en Tableau Public y permite la interacción 
 
 Visualizar en el siguiente enlace: 
 
-https://public.tableau.com/app/profile/c.sar.romero6323/viz/MonitoreodelaCrisisdeDesaparicionesenMxicoAnlisisEspacialyDemogrfico2024/Storytelling?publish=yes)
+https://public.tableau.com/app/profile/c.sar.romero6323/viz/MonitoreodelaCrisisdeDesaparicionesenMxicoAnlisisEspacialyDemogrfico2024/Storytelling?publish=yes
 
 ---
 
