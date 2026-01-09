@@ -6,11 +6,11 @@ Este proyecto presenta una visualización de datos del Registro Nacional de Pers
 
 ## Visualización Interactiva de los Datos
 
-El tablero completo está publicado en Tableau Public y permite la interacción dinámica con los mapas:
+El tablero completo está publicado en Tableau Public y permite la interacción dinámica con los mapas
 
 [![Ver en Tableau Public](https://img.shields.io/badge/Ver_Dashboard-Tableau_Public-E95420?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/c.sar.romero6323/viz/MonitoreodelaCrisisdeDesaparicionesenMxicoAnlisisEspacialyDemogrfico2024/Storytelling?publish=yes)
 
-> **Haz clic en el botón de arriba para explorar la historia completa.**
+> **Haz clic en el botón de arriba para ver el Dashboard**
 
 ---
 
