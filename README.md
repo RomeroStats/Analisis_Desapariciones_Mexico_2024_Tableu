@@ -6,11 +6,11 @@ Este proyecto presenta una visualización de datos del Registro Nacional de Pers
 
 ## Visualización Interactiva de los Datos
 
-El tablero completo está publicado en Tableau Public y permite la interacción dinámica con los mapas
+El tablero completo está publicado en Tableau Public y permite la interacción dinámica con los mapas.
 
-[![Ver en Tableau Public](https://img.shields.io/badge/Ver_Dashboard-Tableau_Public-E95420?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/c.sar.romero6323/viz/MonitoreodelaCrisisdeDesaparicionesenMxicoAnlisisEspacialyDemogrfico2024/Storytelling?publish=yes)
+Visualizar en el siguiente enlace: 
 
-> **Haz clic en el botón de arriba para ver el Dashboard**
+https://public.tableau.com/app/profile/c.sar.romero6323/viz/MonitoreodelaCrisisdeDesaparicionesenMxicoAnlisisEspacialyDemogrfico2024/Storytelling?publish=yes)
 
 ---
 
@@ -22,7 +22,7 @@ El análisis de 103,417 registros procesados revela una falla sistémica en la c
 * **Sin Ubicación (No Especificado):** 69,704 (67.4%)
 * **Ubicación Confirmada:** 33,713 (32.6%)
 
-> **Nota Metodológica:** Los mapas presentados representan únicamente la "geografía visible" (el 32.6% de los casos). Las tasas de violencia por cada 100,000 habitantes constituyen un umbral mínimo confirmado, ya que la magnitud real es significativamente mayor pero territorialmente indeterminada.
+> **Nota Metodológica:** Los mapas presentados representan únicamente la geografía visible, es decir, el 32.6% de los casos. Las tasas de violencia por cada 100,000 habitantes constituyen un umbral mínimo confirmado, ya que la magnitud real es significativamente mayor pero territorialmente indeterminada.
 
 ## Metodología e Ingeniería de Datos
 
@@ -38,7 +38,7 @@ La descarga masiva de los registros JSON del RNPDNO se realizó utilizando Rust 
 Se utilizó RStudio para la integración y limpieza de los archivos.
 
 ### 3. Visualización (Tableau)
-Diseño de Storytelling para contrastar la magnitud absoluta vs. relativa (Tasas por 100,000 habitantes) y análisis demográfico.
+Diseño de Storytelling para contrastar la magnitud absoluta vs. relativa y análisis demográfico.
 
 ## Autor
 
